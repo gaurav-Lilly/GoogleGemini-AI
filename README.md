@@ -25,3 +25,7 @@ To run the app, you’ll need to generate a Google AI Studio API key:
 👉 https://aistudio.google.com/app/apikey
 
 Insert the API key into the app **ChatService** class.
+![IMG_8213](https://github.com/user-attachments/assets/8cd7d873-b2ab-4a5f-a8fd-7bb7f04e7725)
+![IMG_8212](https://github.com/user-attachments/assets/bf36e038-593e-4ab3-b7f7-dcce1e187c6a)
+![IMG_8211](https://github.com/user-attachments/assets/cf6479d6-4fcf-40ce-be0e-537eab5a0a57)
+![IMG_8210](https://github.com/user-attachments/assets/53df1db1-0b36-49a3-8807-81f1d6dfa432)
